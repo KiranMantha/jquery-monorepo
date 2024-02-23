@@ -1,0 +1,10 @@
+{
+  "name": "@jquery-monorepo/shell",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "module": "./index.mjs",
+  "typings": "./index.d.ts",
+  "scripts": {
+    "start": "vite"
+  }
+}

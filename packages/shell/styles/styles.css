@@ -1,0 +1,11 @@
+.border-b-2 {
+    border-bottom-width: 2px;
+}
+
+.tab-container [data-tab-target] {
+    border-color: transparent;
+}
+.tab-container .active-tab {
+    color: rgb(63 131 248);
+    border-color: rgb(63 131 248);
+}
